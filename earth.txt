@@ -1,2 +1,3 @@
-Some changes
-Additional changes
+A pale blue dot.  It is home.
+Added some changes.
+Added some changes in earth branch.
